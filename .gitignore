@@ -1,0 +1,13 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Java / Maven
+**/target/
+.classpath
+.project
+.settings/
+
+# Mac
+.DS_Store
